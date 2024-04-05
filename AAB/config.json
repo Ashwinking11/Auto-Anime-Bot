@@ -1,14 +1,14 @@
 {
-    "Author" : "Yash-Kun",
+    "Author" : "StupidBoi69",
     "Licensed_under" : "GNU GPL V-3.0",
-    "owner" : ["Replace with ID of sudos."],
-    "database_url" : "Your Mongo",
-    "main_channel" : "Id or channel username",
-    "thumbnail_url" : "AAB/utils/thumb.jpeg",
-    "files_channel" : -100,
-    "production_chat" : -100,
-    "api_id" : 123456,
-    "api_hash" : "Api Hash",
-    "main_bot" : "Main Bot for file transfer",
-    "client_bot" : "Client Bot for upload"
+    "owner" : ["1895952308"],
+    "database_url" : "mongodb+srv://hegesam234:hegesam234@cluster0.zsqkfik.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "main_channel" : "-1001965286832",
+    "thumbnail_url" : "https://te.legra.ph/file/f681b2bbc5471e5059054.jpg",
+    "files_channel" : -1001732352061,
+    "production_chat" : -1002123115660,
+    "api_id" : 25695562,
+    "api_hash" : "0b691c3e86603a7e34aae0b5927d725a",
+    "main_bot" : "6105757517:AAFpYRMLgVT3_QrCvKCwX3Nrgbjx7OGhd3w",
+    "client_bot" : "5945099510:AAHVXPrrj4QOPOQjaaWJGQVx1OGzIKtGcq8"
 }
