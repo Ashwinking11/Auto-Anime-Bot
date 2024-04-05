@@ -1,2 +1,1 @@
-  
-web: python3 -m AAB
+python3.11 -m AAB
