@@ -4,8 +4,9 @@
 </div>
 Auto Anime Bot is a Telegram bot designed to automatically upload anime files to a Telegram channel and provide users with access to these files. It supports multiple file resolutions, including 480p, 720p, and 1080p. Additionally, the bot has the capability to encode 720p files.
 
-You can see the channel which is used by main production bot. | [Upload Channel](https://t.me/ani_upload)
-
+You can see the channel which is used by main production bot. |
+[Upload Channel](https://t.me/ani_upload)
+[![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jot43/Auto-Anime-Bot)
 
 ## Features
 
