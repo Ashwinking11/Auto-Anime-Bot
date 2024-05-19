@@ -7,6 +7,8 @@ Auto Anime Bot is a Telegram bot designed to automatically upload anime files to
 You can see the channel which is used by main production bot. | [Upload Channel](https://t.me/ani_upload)
 
 
+[![Name](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jot43/Auto-Anime-Bot)
+
 ## Features
 
 - Automatic upload of anime files to a Telegram channel.
